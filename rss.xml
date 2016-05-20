@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Beyond innovation]]></title>
         <description><![CDATA[Beyond innovation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beyond-innovation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 08:54:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 08:54:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beyond-innovation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New SpaceX landing photos make you feel like the rocket is coming down on top of you]]></title>
+            <description><![CDATA[<article><h1>New SpaceX landing photos make you feel like the rocket is coming down on top of you</h1><p>Up until now, we've really only seen SpaceX's rocket landing in the middle of the ocean from afar. Chase planes near the drone ship provided a spectacular view of the milestone event, but now, S...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaef34df6ca9a285c5bdf2adaf9b1abfcc018b79.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/12/11415518/spacex-rocket-landing-close-up-photos-falcon-9</link>
+            <guid isPermaLink="false">036e6a73-5f51-46c1-be3b-eacaba4cec55</guid>
+            <pubDate>Fri, 20 May 2016 08:54:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Underwater Dogs: photographs of dogs underwater by Seth Casteel]]></title>
             <description><![CDATA[<article><h1>Underwater Dogs: photographs of dogs underwater by Seth Casteel</h1><p>Underwater Dogs - a book containing over 80 unique photographs of dogs underwater snapped by animal photographer Seth Casteel is published on 25th October 2012 by Headline Books, priced &pound;14.99.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c80db14606103fbacd2b64d680024ffe80aa6f49.jpg"></article>]]></description>
